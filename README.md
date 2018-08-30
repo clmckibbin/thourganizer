@@ -1,2 +1,4 @@
 # thourganizer
 Organise all your thoughts
+What happens to the content of your mind? Do thoughts photobomb your peace, give you a self-esteem wedgie and then run off again? Are you prone to 'next level' realisations that then evaporate in front of your eyes? Has an impressive story you were telling to a date/the boss/a guy on the train ever gone lopsided when you couldn't remember the crucial tidbit you read in the paper yesterday?
+Recognise a thought, pin it down, then use these guided prompts to extract every little bit of juice out of that thing - whether it's an idea that could be advanced to a million dollar idea, a negative thought that you could tear down once and for all, or a piece of information you heard in a podcast that you want systematised for later reference. Enter Thourganiser
